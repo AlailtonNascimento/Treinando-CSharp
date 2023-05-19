@@ -1,0 +1,15 @@
+São programas na Linguagem C#, estudando os fundamentos.
+Curso da Udemy sobre C#.
+Os foram programas feitos antes da atualização nova versão da linguagem C#.
+
+A IDE usanda foi o VScode.
+
+A ideia é aprender os fundamentos/lógica/sintaxe/etc da linguaguem.
+
+É uma abordagem básica para conhecer a linguagem.
+
+são 15 programas, cada um com um tema diferente.
+
+o nome do programa é auto explicativo, o programa faz o que nome diz.
+
+Exemplo, no programa comentarios o código mostra como é um comentário em um código.
